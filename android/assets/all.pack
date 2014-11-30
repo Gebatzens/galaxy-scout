@@ -1,0 +1,262 @@
+
+all.png
+format: RGBA8888
+filter: MipMapLinearNearest,MipMapLinearNearest
+repeat: none
+titel
+  rotate: false
+  xy: 1, 686
+  size: 944, 331
+  orig: 944, 331
+  offset: 0, 0
+  index: -1
+highscoretitle
+  rotate: false
+  xy: 1, 571
+  size: 877, 113
+  orig: 877, 113
+  offset: 0, 0
+  index: -1
+button2
+  rotate: false
+  xy: 1, 419
+  size: 700, 150
+  orig: 700, 150
+  offset: 0, 0
+  index: -1
+shop
+  rotate: false
+  xy: 1, 257
+  size: 550, 160
+  orig: 550, 160
+  offset: 0, 0
+  index: -1
+riss
+  rotate: false
+  xy: 1, 15
+  size: 229, 240
+  orig: 229, 240
+  offset: 0, 0
+  index: -1
+raumschifffrost
+  rotate: false
+  xy: 232, 149
+  size: 290, 106
+  orig: 290, 106
+  offset: 0, 0
+  index: -1
+raumschiff
+  rotate: false
+  xy: 232, 41
+  size: 290, 106
+  orig: 290, 106
+  offset: 0, 0
+  index: -1
+leben
+  rotate: false
+  xy: 703, 296
+  size: 267, 273
+  orig: 267, 273
+  offset: 0, 0
+  index: -1
+sw1
+  rotate: false
+  xy: 553, 275
+  size: 145, 142
+  orig: 145, 142
+  offset: 0, 0
+  index: -1
+raumschiffglut
+  rotate: false
+  xy: 700, 188
+  size: 290, 106
+  orig: 290, 106
+  offset: 0, 0
+  index: -1
+ironmeteorit
+  rotate: false
+  xy: 880, 571
+  size: 123, 113
+  orig: 123, 113
+  offset: 0, 0
+  index: -1
+m5
+  rotate: false
+  xy: 553, 153
+  size: 145, 120
+  orig: 145, 120
+  offset: 0, 0
+  index: -1
+m3
+  rotate: false
+  xy: 524, 24
+  size: 187, 127
+  orig: 187, 127
+  offset: 0, 0
+  index: -1
+feufeumeteor
+  rotate: false
+  xy: 713, 1
+  size: 180, 185
+  orig: 180, 185
+  offset: 0, 0
+  index: -1
+m2
+  rotate: false
+  xy: 895, 50
+  size: 125, 136
+  orig: 125, 136
+  offset: 0, 0
+  index: -1
+laserrahmen
+  rotate: false
+  xy: 947, 892
+  size: 75, 125
+  orig: 75, 125
+  offset: 0, 0
+  index: -1
+rp5
+  rotate: false
+  xy: 232, 8
+  size: 131, 31
+  orig: 131, 31
+  offset: 0, 0
+  index: -1
+batterie
+  rotate: false
+  xy: 947, 797
+  size: 53, 93
+  orig: 53, 93
+  offset: 0, 0
+  index: -1
+rp2
+  rotate: false
+  xy: 895, 13
+  size: 93, 35
+  orig: 93, 35
+  offset: 0, 0
+  index: -1
+rp6
+  rotate: false
+  xy: 365, 9
+  size: 87, 30
+  orig: 87, 30
+  offset: 0, 0
+  index: -1
+rp4
+  rotate: false
+  xy: 454, 1
+  size: 66, 38
+  orig: 66, 38
+  offset: 0, 0
+  index: -1
+
+all2.png
+format: RGBA8888
+filter: MipMapLinearNearest,MipMapLinearNearest
+repeat: none
+eismeteorit
+  rotate: false
+  xy: 1, 84
+  size: 177, 171
+  orig: 177, 171
+  offset: 0, 0
+  index: -1
+dmete
+  rotate: false
+  xy: 180, 94
+  size: 168, 161
+  orig: 168, 161
+  offset: 0, 0
+  index: -1
+m1
+  rotate: false
+  xy: 350, 115
+  size: 137, 140
+  orig: 137, 140
+  offset: 0, 0
+  index: -1
+goldm
+  rotate: false
+  xy: 489, 122
+  size: 127, 133
+  orig: 127, 133
+  offset: 0, 0
+  index: -1
+m4
+  rotate: false
+  xy: 489, 1
+  size: 122, 119
+  orig: 122, 119
+  offset: 0, 0
+  index: -1
+geld
+  rotate: false
+  xy: 618, 155
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ton
+  rotate: false
+  xy: 720, 155
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spielton
+  rotate: false
+  xy: 822, 155
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 924, 163
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+rp1
+  rotate: false
+  xy: 1, 16
+  size: 87, 66
+  orig: 87, 66
+  offset: 0, 0
+  index: -1
+tonaus
+  rotate: false
+  xy: 618, 53
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+trash
+  rotate: false
+  xy: 720, 53
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+spieltonaus
+  rotate: false
+  xy: 822, 53
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+weiter
+  rotate: false
+  xy: 924, 69
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+rp3
+  rotate: false
+  xy: 90, 45
+  size: 79, 37
+  orig: 79, 37
+  offset: 0, 0
+  index: -1

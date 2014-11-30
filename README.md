@@ -1,7 +1,7 @@
 Galaxy Scout
 ===========
 
-Galaxy Scout is a simple game for Android. It's about moving around asteroids.
+Galaxy Scout is a simple game for Android. It's about dodging asteroids.
 
 ##Building
 

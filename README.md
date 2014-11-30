@@ -18,5 +18,4 @@ To run the app connect your device in debug mode and type:
 ```
 ./gradlew android:run
 ```
-
-If you're on Windows, you'll need to replace ./gradlew with gradlew.bat
+On Windows you have to replace ./gradlew with gradlew.bat

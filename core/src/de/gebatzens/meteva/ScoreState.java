@@ -45,7 +45,6 @@ public class ScoreState extends State {
 		highscoretitle = GScout.getRegion("highscoretitle");
 		fast = new GamemodeButton(GScout.width * 0.1, GScout.height * 0.03, GScout.getString("fast_gm"));
 		normal = new GamemodeButton(GScout.width * 0.65, GScout.height * 0.03, GScout.getString("normal_gm"));
-		normal.activated = true;
 		db = new DeleteButton(GScout.width * 0.03f, GScout.height * 0.03f, GScout.getRegion("trash"), GScout.width * 0.06f);
 	}
 

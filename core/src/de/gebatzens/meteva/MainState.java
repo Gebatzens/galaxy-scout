@@ -221,9 +221,19 @@ public class MainState extends State {
 		} else if(o == start) {
 			LevelState level = new LevelState(GScout.settings.tutorialEnabled());
 			GScout.setState(level);
-		} else if(o == highscore)
+		} else if(o == highscore) {
 			mstate = MMState.SCORE;
-		else if(o == normalGM) {
+			
+			//apply the mode to the highscore
+			if(GScout.settings.isFastModeEnabled()) {
+				sstate.fast.activated = true;
+				sstate.normal.activated = false;
+			} else {
+				sstate.normal.activated = true;
+				sstate.fast.activated = false;
+			}
+			
+		} else if(o == normalGM) {
 			normalGM.activated = true;
 			fastGM.activated = false;
 			GScout.settings.setFastModeEnabled(false);
